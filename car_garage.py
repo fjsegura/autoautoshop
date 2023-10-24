@@ -1,7 +1,8 @@
 import car_data
 
-class car_garage():
-    def __init__(self):
+class car_garage_class():
+    def __init__(self,name):
+        self.name = name
         self.car_storage = dict()
     def add_car (self,car_id):
         if car_id not in self.car_storage:

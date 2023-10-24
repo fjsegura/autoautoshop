@@ -5,7 +5,6 @@ def extract_param_values():
     crautosURL = "https://crautos.com/autosusados/"
     page = requests.get(crautosURL)
     soup = BeautifulSoup(page.content,"html.parser")
-    #results = soup.find(id="sf")
     atribute_list = ["brand","style","province","yearto","priceto","trans","fuel","doors"]
     brand_dict = dict()
     style_dict = dict()
@@ -43,4 +42,3 @@ def extract_param_values():
     return brand_dict,style_dict,province_dict,year_set,price_set,trans_dict,fuel_dict,doors_dict
 
 
-#print(extract_param_values())
