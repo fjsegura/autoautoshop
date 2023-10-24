@@ -1,15 +1,19 @@
 from bs4 import BeautifulSoup
 import requests
 import json
-
-crautosURL = "https://crautos.com/autosusados/"
-
-page = requests.get(crautosURL)
-soup = BeautifulSoup(page.content,"html.parser")
-results = soup.find(id="sf")
-#print(soup)
+import param_setup
 
 
+def main():
+    #Extract param values
+    brand_dict,style_dict,province_dict,year_set,price_set,trans_dict,fuel_dict,doors_dict = param_setup.extract_param_values()
+    #Read and verify config file
+
+    #Do the quearies
+
+    #Filter the results
+
+    #Save the results
 url = 'https://crautos.com/autosusados/searchresults.cfm'
 form_data = {   "brand": "4",
                 "financed": "0",
