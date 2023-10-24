@@ -1,0 +1,6243 @@
+
+
+<body>
+
+<!--Header Start-->
+
+<header  data-spy="affix" data-offset-top="1" class="clearfix">
+
+    <section class="toolbar">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-lg-12 ">
+
+                    <ul class="right-none pull-right company_info">
+
+	                    
+
+        <div class="col-md-12" align="left">
+
+           <i class="fa fa-user"></i>&nbsp;<a href="https://crautos.com/rmicrautos/" target="_self"><img src="https://crautos.com/rimages/micrautos.png"></a>
+
+           &nbsp;&nbsp;<a href="javascript:s();" class="btn btn-xs btn-success">INGRESAR</a>
+
+           &nbsp;&nbsp;<a href="https://crautos.com/rmicrautos/register.cfm" target="_self" class="btn btn-xs btn-info">REGISTRATE</a>
+
+    	</div>
+
+    
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="toolbar_shadow"></div>
+
+    </section>
+
+    <div class="bottom-header" >
+
+        <div class="container">
+
+            <nav class="navbar navbar-default" role="navigation">
+
+                <div class="container-fluid"> 
+
+                    
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+
+                    <div class="hidden-xs">
+
+                    <div class="navbar-header">
+
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+
+                        
+
+                        <a href="javascript:history.back();">
+
+                        <img src="/icons/prevpage.png" width="35" height="35" style="z-index: 999;position: absolute;top: 25%;">
+
+                        </a>
+
+                            
+
+                        <img src="https://crautos.com/rimages/crautoslogo.png" hspace="10" width="60%" style="margin-left:55px;margin-top:15px">
+
+                    </div>
+
+                    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+
+                        <ul class="nav navbar-nav pull-right">
+
+                            <li><a href="https://crautos.com">Inicio </a></li>
+
+                            <li><a href="https://crautos.com/autosnuevos/">Autos Nuevos</a></li>
+
+                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Autos Usados <b class="caret"></b></a>
+
+                                <ul class="dropdown-menu">
+
+                                    <li><a href="https://crautos.com/autosusados/">Autos En Venta</a></li>
+
+                                    <li><a href="https://crautos.com/autosusados/ofertasdeldia">Ofertas Del D&iacute;a</a></li>
+
+                                    <li><a href="https://crautos.com/autosusados/zonaverde">Zona Verde</a></li>
+
+                                    <li><a href="https://crautos.com/autosusados/premium">Autos Premium</a></li>
+
+                                    <li><a href="https://crautos.com/bluebook">BlueBook </a></li>
+
+                                    <li><a href="https://crautos.com/autosusados/anunciarse.cfm">Anuncie Su Auto</a></li>
+
+                                    <li><a href="https://crautos.com/anuncios">Edite Su Anuncio</a></li>
+
+                                    <li><a href="https://crautos.com/vendedores" target="_blank">Vendedores Registrados</a></li>
+
+                                </ul>
+
+                            </li>
+
+                            
+
+                        </ul>
+
+                    </div>
+
+                    </div>
+
+
+
+
+
+					<div class="visible-xs">
+
+                    <div class="navbar-header">
+
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-2"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+
+                        
+
+                        <a href="javascript:history.back();">
+
+                        <img src="/icons/prevpage.png" width="30" height="30" style="z-index: 999;position:absolute;top: 15px;">               </a>
+
+                            
+
+                        <img src="https://crautos.com/rimages/crautoslogo.png" hspace="10" width="60%" style="margin-left:45px;margin-top:15px">
+
+                    </div>
+
+                    <div class="collapse navbar-collapse" id="navbar-collapse-2">
+
+                        <ul class="nav navbar-nav mov-navbar pull-left">
+
+                            <li><a href="https://crautos.com">Inicio </a></li>
+
+                            <li><a href="https://crautos.com/autosnuevos/">Autos Nuevos</a></li>
+
+                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Autos Usados <b class="caret"></b></a>
+
+                                <ul class="dropdown-menu">
+
+                                    <li><a href="https://crautos.com/autosusados/">Autos En Venta</a></li>
+
+                                    <li><a href="https://crautos.com/autosusados/ofertasdeldia">Ofertas Del D&iacute;a</a></li>
+
+                                    <li><a href="https://crautos.com/autosusados/zonaverde">Zona Verde</a></li>
+
+                                    <li><a href="https://crautos.com/autosusados/premium">Autos Premium</a></li>
+
+                                    <li><a href="https://crautos.com/bluebook">BlueBook </a></li>
+
+                                    <li><a href="https://crautos.com/autosusados/anunciarse.cfm">Anuncie Su Auto</a></li>
+
+                                    <li><a href="https://crautos.com/anuncios">Edite Su Anuncio</a></li>
+
+                                    <li><a href="https://crautos.com/vendedores" target="_blank">Vendedores Registrados</a></li>
+
+                                </ul>
+
+                            </li>
+
+                            
+
+                        </ul>
+
+                    </div>
+
+                    </div>
+
+                    <!-- /.navbar-collapse --> 
+
+                </div>
+
+                <!-- /.container-fluid --> 
+
+            </nav>
+
+        </div>
+
+        <div class="header_shadow"></div>
+
+    </div>
+
+</header>
+
+
+
+<div style="margin-top: 60px"></div>
+
+<div style="margin-top: 100px"></div>
+
+<div class="clearfix"></div>
+
+<!--Header End-->
+
+
+
+<div class="clearfix"></div>
+
+<section class="content" style="background-color:#323232">
+
+    <div class="container">
+
+        <div class="row" style="background-color:#444444">
+
+                          
+
+                <div class="inventory-wide-sidebar-right">
+
+                    <div class="col-md-9">
+
+                        <div class="car_listings sidebar margin-top-20 clearfix">
+
+                          
+
+
+
+                          <form name="form" method="post" action="ucompare.cfm">
+
+                          
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=46133505&Volkswagen.VARIANT.1973">
+
+                                
+
+                                <div class="title"><b>1973</b> Volkswagen VARIANT 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="46133505" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=46133505&p=" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">1800 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Manual
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Station Wagon</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">AZUL</td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">AZUL</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 7 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">San Jos&eacute;</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent;  500,000<br></div>
+
+                                            <div class="pricedollars">($   949)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=46133505">
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=46133505" class="mytext1">
+
+                                    &nbsp;<b>Volkswagen VARIANT&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1973 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;   500,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($  949)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;1800cc | 
+
+                                    
+
+                                      Manual
+
+                                      
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=36873216&Nissan.SENTRA B12.1987">
+
+                                
+
+                                <div class="title"><b>1987</b> Nissan SENTRA B12 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="36873216" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=36873216&p=" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">1600 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Manual
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Sed&aacute;n</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">ROJO</td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">GRIS</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 1 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">Cartago</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent;  580,000<br></div>
+
+                                            <div class="pricedollars">($  1,101)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=36873216">
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=36873216" class="mytext1">
+
+                                    &nbsp;<b>Nissan SENTRA B12&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1987 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;   580,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,101)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;1600cc | 
+
+                                    
+
+                                      Manual
+
+                                      
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=32348756&Hyundai.VERNA.2001">
+
+                                
+
+                                <div class="title"><b>2001</b> Hyundai VERNA 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="32348756" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=32348756&p=" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">1500 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Manual
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Sed&aacute;n</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">BLANCO</td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">NEGRO</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 6 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">Alajuela</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent;  600,000<br></div>
+
+                                            <div class="pricedollars">($  1,139)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=32348756">
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=32348756" class="mytext1">
+
+                                    &nbsp;<b>Hyundai VERNA&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;2001 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;   600,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,139)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;1500cc | 
+
+                                    
+
+                                      Manual
+
+                                      
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=78955433&Volvo.360 GL.1989">
+
+                                
+
+                                <div class="title"><b>1989</b> Volvo 360 GL 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="78955433" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=78955433&p=78955433-t.jpg" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">1986 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Manual
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Sed&aacute;n</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">CELESTE</td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">GRIS</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 8 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">San Jos&eacute;</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent;  600,000<br></div>
+
+                                            <div class="pricedollars">($  1,139)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=78955433">
+
+                                            
+
+                                              <img src="https://crautos.com/clasificados/usados/78955433-t.jpg" width="90" border="0"></a>
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=78955433" class="mytext1">
+
+                                    &nbsp;<b>Volvo 360 GL&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1989 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;   600,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,139)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;1986cc | 
+
+                                    
+
+                                      Manual
+
+                                      
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=42667639&Daihatsu.FEROZA.1993">
+
+                                
+
+                                <div class="title"><b>1993</b> Daihatsu FEROZA 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="42667639" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=42667639&p=42667639-t.jpg" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">1500 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Manual
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Todo Terreno 4x4</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">VERDE Y GRIS </td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">GRIS </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 8 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">San Jos&eacute;</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent;  750,000<br></div>
+
+                                            <div class="pricedollars">($  1,423)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=42667639">
+
+                                            
+
+                                              <img src="https://crautos.com/clasificados/usados/42667639-t.jpg" width="90" border="0"></a>
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=42667639" class="mytext1">
+
+                                    &nbsp;<b>Daihatsu FEROZA&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1993 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;   750,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,423)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;1500cc | 
+
+                                    
+
+                                      Manual
+
+                                      
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            	
+
+                            	<div align="center" class="hidden-xs">
+
+                                    <div class="banner728x90title">PUBLICIDAD</div>
+
+                                    <div class="banner728x90" id='div728x90-1b'>
+
+                                          <script>
+
+                                                googletag.cmd.push(function() {googletag.pubads().display('/21819284543/crusados', [728, 90], 'div728x90-1b');});
+
+                                          </script>
+
+                                    </div>
+
+                                    <br>
+
+                                </div>
+
+                                
+
+                            	<div align="center" class="visible-xs" style="margin-left: -15px">
+
+                                    <div class="banner320x100title">PUBLICIDAD</div>
+
+                                    <div class="banner320x100" id='div320x100-1b'>
+
+                                          <script>
+
+                                                googletag.cmd.push(function() {googletag.pubads().display('/21819284543/crusados', [320, 100], 'div320x100-1b');});
+
+                                          </script>
+
+                                    </div>
+
+                                    <br>
+
+                                </div>
+
+
+
+								
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=91866022&Ford.TAURUS SES.2002">
+
+                                
+
+                                <div class="title"><b>2002</b> Ford TAURUS SES 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="91866022" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=91866022&p=" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">3000 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Autom&aacute;tica
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Sed&aacute;n</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">BLANCO</td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">NEGRO</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 8 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">San Jos&eacute;</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent;  800,000<br></div>
+
+                                            <div class="pricedollars">($  1,518)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=91866022">
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=91866022" class="mytext1">
+
+                                    &nbsp;<b>Ford TAURUS SES&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;2002 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;   800,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,518)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;3000cc | 
+
+                                    
+
+                                      Autom&aacute;tico
+
+                                    
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=59211238&Plymouth.BREEZE.1999">
+
+                                
+
+                                <div class="title"><b>1999</b> Plymouth BREEZE 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="59211238" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=59211238&p=59211238-t.jpg" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">2000 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Autom&aacute;tica
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Sed&aacute;n</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">BEIGE</td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">BEIGE</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 5 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">Guanacaste</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent;  850,000<br></div>
+
+                                            <div class="pricedollars">($  1,613)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=59211238">
+
+                                            
+
+                                              <img src="https://crautos.com/clasificados/usados/59211238-t.jpg" width="90" border="0"></a>
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=59211238" class="mytext1">
+
+                                    &nbsp;<b>Plymouth BREEZE&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1999 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;   850,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,613)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;2000cc | 
+
+                                    
+
+                                      Autom&aacute;tico
+
+                                    
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=16299432&Honda.ACCORD.1997">
+
+                                
+
+                                <div class="title"><b>1997</b> Honda ACCORD 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="16299432" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=16299432&p=" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">2200 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Autom&aacute;tica
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Sed&aacute;n</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">DORADO</td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">BEIGE</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 8 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">San Jos&eacute;</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent;  850,000<br></div>
+
+                                            <div class="pricedollars">($  1,613)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=16299432">
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=16299432" class="mytext1">
+
+                                    &nbsp;<b>Honda ACCORD&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1997 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;   850,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,613)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;2200cc | 
+
+                                    
+
+                                      Autom&aacute;tico
+
+                                    
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=23961696&Audi.200.1989">
+
+                                
+
+                                <div class="title"><b>1989</b> Audi 200 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="23961696" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=23961696&p=" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">2200 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Autom&aacute;tica
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Sed&aacute;n</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">DORADO </td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">BEIGE </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 2 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">San Jos&eacute;</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent;  850,000<br></div>
+
+                                            <div class="pricedollars">($  1,613)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=23961696">
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=23961696" class="mytext1">
+
+                                    &nbsp;<b>Audi 200&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1989 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;   850,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,613)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;2200cc | 
+
+                                    
+
+                                      Autom&aacute;tico
+
+                                    
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=84471921&Mitsubishi.LANCER.1989">
+
+                                
+
+                                <div class="title"><b>1989</b> Mitsubishi LANCER 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="84471921" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=84471921&p=84471921-t.jpg" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">1500 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Manual
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Sed&aacute;n</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">BLANCO </td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">CAF� </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 5 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">Cartago</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent;  950,000<br></div>
+
+                                            <div class="pricedollars">($  1,803)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=84471921">
+
+                                            
+
+                                              <img src="https://crautos.com/clasificados/usados/84471921-t.jpg" width="90" border="0"></a>
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=84471921" class="mytext1">
+
+                                    &nbsp;<b>Mitsubishi LANCER&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1989 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;   950,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,803)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;1500cc | 
+
+                                    
+
+                                      Manual
+
+                                      
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            	
+
+                            	<div align="center" class="hidden-xs">
+
+                                    <div class="banner728x90title">PUBLICIDAD</div>
+
+                                    <div class="banner728x90" id='div728x90-2b'>
+
+                                          <script>
+
+                                                googletag.cmd.push(function() {googletag.pubads().display('/21819284543/crusados', [728, 90], 'div728x90-2b');});
+
+                                          </script>
+
+                                    </div>
+
+                                    <br>
+
+                                </div>
+
+                                
+
+                            	<div align="center" class="visible-xs" style="margin-left: -15px">
+
+                                    <div class="banner320x100title">PUBLICIDAD</div>
+
+ 
+
+ <style type="text/css">
+
+.infotext {
+
+	font-family: "Segoe UI", Segoe, "Trebuchet MS", "DejaVu Sans", Verdana, sans-serif;
+
+	font-size: 12px;
+
+	font-weight: 500;
+
+	color: #FFF;
+
+	line-height: 15px;
+
+}
+
+</style>
+
+
+
+
+
+    <a href="https://brenlinea.com/propinfo.cfm?c=81972694" target="_blank">
+
+        <table width="320" height="100" border="0" bgcolor="#089C08">
+
+        <tbody>
+
+            <tr bgcolor="#EFEFEF">
+
+                <td colspan="2" class="infotext">
+
+                    <img src="https://brenlinea.com/pictures/81972694-t1.jpg" width="100" style="margin-right:3px">
+
+                    <img src="https://brenlinea.com/pictures/81972694-t2.jpg" width="100" style="margin-right:3px">
+
+                    <img src="https://brenlinea.com/pictures/81972694-t3.jpg" width="100" >
+
+                </td>
+
+            </tr>
+
+
+
+            <tr height="40" bgcolor="#089C08">
+
+                <td align="center" valign="middle" class="infotext">
+
+                    Casa - 165m2<br>Res. Salitral Desamparados, Casa A10
+
+                </td>
+
+                <td align="right" valign="middle" width="143"><img src="/dbanners/brenlinea/320x100/brlogo.png" /><img src="/dbanners/brenlinea/320x100/arrow.png" /></td>
+
+            </tr>
+
+        </tbody>
+
+        </table>
+
+    </a>
+
+
+
+
+
+                                    
+
+                                    <br>
+
+                                </div>
+
+            			    
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=57797437&Hyundai.SONATA.1993">
+
+                                
+
+                                <div class="title"><b>1993</b> Hyundai SONATA 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="57797437" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=57797437&p=57797437-t.jpg" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">2000 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Manual
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Sed&aacute;n</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">VINO</td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">NEGRO</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 5 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">Heredia</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent; 1,000,000<br></div>
+
+                                            <div class="pricedollars">($  1,898)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=57797437">
+
+                                            
+
+                                              <img src="https://crautos.com/clasificados/usados/57797437-t.jpg" width="90" border="0"></a>
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=57797437" class="mytext1">
+
+                                    &nbsp;<b>Hyundai SONATA&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1993 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;  1,000,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,898)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;2000cc | 
+
+                                    
+
+                                      Manual
+
+                                      
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=26563435&Kia.SPORTAGE .1993">
+
+                                
+
+                                <div class="title"><b>1993</b> Kia SPORTAGE 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="26563435" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=26563435&p=" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">2000 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Manual
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Todo Terreno 4x4</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">AZUL </td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">NEGRO </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 9 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">Cartago</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent; 1,000,000<br></div>
+
+                                            <div class="pricedollars">($  1,898)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=26563435">
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=26563435" class="mytext1">
+
+                                    &nbsp;<b>Kia SPORTAGE &nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1993 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;  1,000,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,898)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;2000cc | 
+
+                                    
+
+                                      Manual
+
+                                      
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=98553173&Toyota.COROLLA.1985">
+
+                                
+
+                                <div class="title"><b>1985</b> Toyota COROLLA 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="98553173" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=98553173&p=98553173-t.jpg" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">1500 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Manual
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Sed&aacute;n</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">BLANCO</td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">GRIS</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 0 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">San Jos&eacute;</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent; 1,000,000<br></div>
+
+                                            <div class="pricedollars">($  1,898)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=98553173">
+
+                                            
+
+                                              <img src="https://crautos.com/clasificados/usados/98553173-t.jpg" width="90" border="0"></a>
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=98553173" class="mytext1">
+
+                                    &nbsp;<b>Toyota COROLLA&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1985 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;  1,000,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,898)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;1500cc | 
+
+                                    
+
+                                      Manual
+
+                                      
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=86993726&Nissan.SENTRA.1992">
+
+                                
+
+                                <div class="title"><b>1992</b> Nissan SENTRA 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="86993726" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=86993726&p=86993726-t.jpg" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">1600 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Manual
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Sed&aacute;n</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">CELESTE</td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">GRIS</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 2 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">San Jos&eacute;</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent; 1,000,000<br></div>
+
+                                            <div class="pricedollars">($  1,898)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=86993726">
+
+                                            
+
+                                              <img src="https://crautos.com/clasificados/usados/86993726-t.jpg" width="90" border="0"></a>
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=86993726" class="mytext1">
+
+                                    &nbsp;<b>Nissan SENTRA&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1992 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;  1,000,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,898)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;1600cc | 
+
+                                    
+
+                                      Manual
+
+                                      
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            <div class="inventory hidden-xs">
+
+                                
+
+                                	<a class="inventory" href="cardetail.cfm?c=77560030&Nissan.MAXIMA.1994">
+
+                                
+
+                                <div class="title"><b>1994</b> Nissan MAXIMA 
+
+                                        <span style="font-size:16px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    	<span class="pull-right" font="font"><input type="checkbox" name="c" value="77560030" onClick="javascript:event.stopImmediatePropagation();"></span>
+
+                                    
+
+                                </div>
+
+                                    <embed class="preview" type="text/html" src="showcarpic.cfm?c=77560030&p=" height="150" width="200" />
+
+                                    
+
+                                <table class="options-primary">
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Combustible:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Gasolina
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Cilindrada:</td>
+
+                                        <td class="spec">3000 cc</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Transmisi&oacute;n:</td>
+
+                                        <td class="spec">
+
+											
+
+                                              Autom&aacute;tica
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="primary mytext1">Estilo:</td>
+
+                                        <td class="spec">Sed&aacute;n</td>
+
+                                    </tr>
+
+                                    
+
+                                    <tr>
+
+                                        <td colspan="2" height="18">
+
+                                            <div class="inner stop">
+
+                                            	
+
+                                            </div>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <table class="options-secondary">
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Exterior:</td>
+
+                                        <td class="spec">NEGRO</td>
+
+                                  </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Color Interior:</td>
+
+                                        <td class="spec">NEGRO</td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Placa:</td>
+
+                                        <td class="spec">
+
+                                          
+
+                                              Termina en 6 
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr>
+
+                                        <td class="secondary mytext1">Provincia:</td>
+
+                                        <td class="spec">Heredia</td>
+
+                                    </tr>
+
+                                </table>
+
+                                
+
+                                <div class="price">
+
+                                	
+
+                                            <div class="pricetext">&cent; 1,000,000<br></div>
+
+                                            <div class="pricedollars">($  1,898)*</div>
+
+                                        
+
+                                    
+
+                                </div>
+
+                                <div class="view-details gradient_button"><i class='fa fa-plus-circle'></i> Ver Detalles </div>
+
+                                <div class="clearfix"></div>
+
+                                </a>
+
+                            </div>
+
+                            
+
+                            <div class="visible-xs">
+
+                            
+
+                                 <table width="100%" border="1" cellpadding="0" cellspacing="0" class="carbox-regular" bgcolor="#FFF">
+
+                                 <tr>
+
+                                  <td width="95" height="40">
+
+                                        <div align="left">
+
+                                        
+
+                                            <a class="mytext1" href="https://crautos.com/autosusados/cardetail.cfm?c=77560030">
+
+                                            
+
+                                            </a>
+
+                                        
+
+                                        </div>
+
+                                  </td>
+
+                                  <td valign="top">
+
+                                    <a href="https://crautos.com/autosusados/cardetail.cfm?c=77560030" class="mytext1">
+
+                                    &nbsp;<b>Nissan MAXIMA&nbsp;
+
+                                    
+
+                                        <span style="font-size:12px">&nbsp;&bull;&nbsp;5 Pas.</span>
+
+                                    
+
+                                    &nbsp;1994 
+
+                                   <br></b>
+
+                                    <div>
+
+
+
+                                      
+
+                                              <span class="precio" height="22"> &nbsp;&cent;  1,000,000</span>
+
+                                              <span class="pricedollars-xs" height="15"> &nbsp;($ 1,898)*
+
+                                            
+
+                                            <br>
+
+                                            </span>
+
+                                      
+
+
+
+                                    </div>
+
+                                    <div class="transtitle">
+
+                                    &nbsp;3000cc | 
+
+                                    
+
+                                      Autom&aacute;tico
+
+                                    
+
+                                     | 
+
+                                    
+
+                                      Gasolina
+
+                                    
+
+                                    </div>
+
+                                    </a>
+
+                                  </td>
+
+                                  </tr>
+
+                                </table>
+
+
+
+                            </div>
+
+                            
+
+                              
+
+                          
+
+ 
+
+             <!--banner BRenlinea start-->
+
+            <div class="col-md-12 hidden-xs" align="center">
+
+               <br>
+
+               <a href="https://brenlinea.com" target="_blank"><img src="BR729x90-3.png" class="img-fluid"></a>
+
+               <br><br>
+
+            </div>
+
+
+
+            <div class="col-md-12 visible-xs" align="center">
+
+               <br>
+
+               <a href="https://brenlinea.com" target="_blank"><img src="BR320x100-3.png" class="img-fluid"></a>
+
+               <br><br>
+
+            </div>
+
+             <!--banner BRenlinea end-->
+
+
+
+                         
+
+                          
+
+                          
+
+                          <div class="col-xs-12 hlcar hidden-xs">
+
+                          	<div class="col-xs-5 col-sm-2 col-md-2" align="left">
+
+                          		<button type="submit" class="btn-primary margin-10">comparar</button>
+
+                          	</div>
+
+                          	 <div class="col-xs-7 col-sm-10 col-md-10" align="left">
+
+                                 Para comparar 2 &oacute; m&aacute;s veh&iacute;culos, marque el cuadro (<input type="checkbox" name="demo" value="checkbox">) localizado en la esquina derecha de cada veh&iacute;culo que desea incluir en la comparaci&oacute;n y oprima el bot&oacute;n de <b>comparar</b>.
+
+                             </div>
+
+                          </div>
+
+                          </form>
+
+                          
+
+                          
+
+                          	<div class="col-xs-12">
+
+                            	<br>
+
+                            	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 pagination_container" align="left">
+
+                                	<a href="javascript:p('1')"><button class="btn-xs btn-success">&lt;&lt; Primera P&aacute;gina</button></a>
+
+                            	</div>
+
+                            	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 pagination_container" align="right">
+
+                                 	<a href="javascript:p('690')"><button class="btn-xs btn-success">&Uacute;ltima P&aacute;gina &gt;&gt;</button></a>
+
+                            	</div>
+
+                            </div>
+
+                            <div class="clearfix"></div>
+
+                            <div class="col-xs-12 pagination_container">
+
+                                <ul class="pagination margin-bottom-none margin-top-25 bottom_pagination md-margin-bottom-none sm-margin-bottom-30">
+
+                                	
+
+                                       <li class="active"><a href="javascript:p('1')" class="margin-bottom-10">1</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('2')" class="margin-bottom-10">2</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('3')" class="margin-bottom-10">3</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('4')" class="margin-bottom-10">4</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('5')" class="margin-bottom-10">5</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('6')" class="margin-bottom-10">6</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('7')" class="margin-bottom-10">7</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('8')" class="margin-bottom-10">8</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('9')" class="margin-bottom-10">9</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('10')" class="margin-bottom-10">10</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('11')" class="margin-bottom-10">11</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('12')" class="margin-bottom-10">12</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('13')" class="margin-bottom-10">13</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('14')" class="margin-bottom-10">14</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('15')" class="margin-bottom-10">15</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('16')" class="margin-bottom-10">16</a></li>
+
+                                   
+
+                                       <li ><a href="javascript:p('17')" class="margin-bottom-10">17</a></li>
+
+                                   
+
+                                    	<li><a href="javascript:p('2')"><i class="fa fa-angle-right"></i></a></li>
+
+                                    
+
+                                </ul>
+
+                            </div>
+
+                          
+
+                       </div>
+
+
+
+                       
+
+                          
+
+                  
+
+                 <div class="col-xs-12 hidden-xs" align="center">
+
+							
+
+                            <br>
+
+                            
+
+                                    <div class="col-sm-4 col-md-3">
+
+                                        <div class="car-block inventory-sd-destacado">
+
+                                            <div class="sdtitle">SUPER DESTACADO</div>
+
+                                            <div class="img-flex margin-top-5" align="center"> 
+
+                                            
+
+                                                <a href="cardetail.cfm?c=20191033&Chevrolet.SPORTAGE.2017">
+
+                                            
+
+                                            <span class="align-center"><i class="fa fa-3x fa-plus-square-o"></i></span></a> <img src="https://crautos.com/clasificados/usados/20191033-t.jpg" alt="" class="img-responsive"> </div>
+
+                                            <div class="car-block-bottom">
+
+                                                <h6><strong>2017 Kia SPORTAGE</strong></h6>
+
+                                                <h6>
+
+                                                    
+
+                                                      Gasolina - 
+
+                                                    
+
+                                                      Manual
+
+                                                    
+
+                                                </h6>
+
+                                                
+
+                                                    <span class="price-xs">&cent;  9,750,000</span><br>
+
+                                                    <span class="pricedollars-xs">($ 18,501)*</span>
+
+                                                
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                    
+
+                                    <div class="col-sm-4 col-md-3">
+
+                                        <div class="car-block inventory-sd-destacado">
+
+                                            <div class="sdtitle">SUPER DESTACADO</div>
+
+                                            <div class="img-flex margin-top-5" align="center"> 
+
+                                            
+
+                                                <a href="cardetail.cfm?c=20340828&Hyundai.SWIFT.2017">
+
+                                            
+
+                                            <span class="align-center"><i class="fa fa-3x fa-plus-square-o"></i></span></a> <img src="https://crautos.com/clasificados/usados/20340828-t.jpg" alt="" class="img-responsive"> </div>
+
+                                            <div class="car-block-bottom">
+
+                                                <h6><strong>2017 Suzuki SWIFT</strong></h6>
+
+                                                <h6>
+
+                                                    
+
+                                                      Gasolina - 
+
+                                                    
+
+                                                      Autom&aacute;tico
+
+                                                    
+
+                                                </h6>
+
+                                                
+
+                                                    <span class="price-xs">&cent;  6,850,000</span><br>
+
+                                                    <span class="pricedollars-xs">($ 12,998)*</span>
+
+                                                
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                    
+
+                                    <div class="col-sm-4 col-md-3">
+
+                                        <div class="car-block inventory-sd-destacado">
+
+                                            <div class="sdtitle">SUPER DESTACADO</div>
+
+                                            <div class="img-flex margin-top-5" align="center"> 
+
+                                            
+
+                                                <a href="cardetail.cfm?c=21362424&Hyundai.VITARA.2019">
+
+                                            
+
+                                            <span class="align-center"><i class="fa fa-3x fa-plus-square-o"></i></span></a> <img src="https://crautos.com/clasificados/usados/21362424-t.jpg" alt="" class="img-responsive"> </div>
+
+                                            <div class="car-block-bottom">
+
+                                                <h6><strong>2019 Suzuki VITARA</strong></h6>
+
+                                                <h6>
+
+                                                    
+
+                                                      Gasolina - 
+
+                                                    
+
+                                                      Autom&aacute;tico
+
+                                                    
+
+                                                </h6>
+
+                                                
+
+                                                    <span class="price-xs">&cent; 10,500,000</span><br>
+
+                                                    <span class="pricedollars-xs">($ 19,924)*</span>
+
+                                                
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                    
+
+                                    <div class="col-sm-4 col-md-3">
+
+                                        <div class="car-block inventory-sd-destacado">
+
+                                            <div class="sdtitle">SUPER DESTACADO</div>
+
+                                            <div class="img-flex margin-top-5" align="center"> 
+
+                                            
+
+                                                <a href="cardetail.cfm?c=21435031&Ford.VERSA.2012">
+
+                                            
+
+                                            <span class="align-center"><i class="fa fa-3x fa-plus-square-o"></i></span></a> <img src="https://crautos.com/clasificados/usados/21435031-t.jpg" alt="" class="img-responsive"> </div>
+
+                                            <div class="car-block-bottom">
+
+                                                <h6><strong>2012 Nissan VERSA</strong></h6>
+
+                                                <h6>
+
+                                                    
+
+                                                      Gasolina - 
+
+                                                    
+
+                                                      Manual
+
+                                                    
+
+                                                </h6>
+
+                                                
+
+                                                    <span class="price-xs">&cent;  4,800,000</span><br>
+
+                                                    <span class="pricedollars-xs">($  9,108)*</span>
+
+                                                
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                    
+
+                 </div>
+
+                 
+
+                 <div class="visible-xs" align="center">
+
+                            
+
+                            <br>
+
+                            
+
+                                    
+
+                                     <table width="100%" border="3" cellpadding="0" cellspacing="0" class="table-bordered carbox" bgcolor="#EFEFEF">
+
+                                         <tr bgcolor="#FFFF00">
+
+                                             <td colspan="2" align="center" class="font1">
+
+                                                 <b>SUPER DESTACADO</b>
+
+                                             </td>
+
+                                         </tr>
+
+                                         
+
+                                         <tr bgcolor="#EFEFEF">
+
+                                          <td width="95" height="40">
+
+                                                <div align="left">
+
+                                                <a href="/autosusados/cardetail.cfm?c=84870894&Hyundai.COUNTY.1998" class="font1">
+
+                                                
+
+                                                  <img src="/clasificados/usados/84870894-t.jpg" width="90" border="0"></a>
+
+                                                
+
+                                                </a>
+
+                                                </div>
+
+                                          </td>
+
+                                          <td valign="top">
+
+                                            <a href="/autosusados/cardetail.cfm?c=84870894&Hyundai.COUNTY.1998" class="font1">
+
+                                            &nbsp;<b>Hyundai COUNTY&nbsp;&nbsp;
+
+                                            &nbsp;1998 
+
+                                           <br></b>
+
+                                            <div class="font1b"><span class="price-xs">
+
+                                                
+
+                                                    <b>&cent; 14,000,000</b></span>&nbsp;&nbsp;&nbsp;<span class="pricedollars-xs">($ 26,565)*</span>
+
+                                                
+
+                                            </div>
+
+
+
+                                            
+
+
+
+                                            <div class="font1c">
+
+                                            &nbsp;   3,000cc | 
+
+                                            
+
+                                              Manual
+
+                                              
+
+                                             | 
+
+                                            
+
+                                              Diesel
+
+                                            
+
+                                            </div>
+
+                                            </a>
+
+                                          </td>
+
+                                          </tr>
+
+                                        </table>
+
+
+
+
+
+                                
+
+                                    
+
+                                     <table width="100%" border="3" cellpadding="0" cellspacing="0" class="table-bordered carbox" bgcolor="#EFEFEF">
+
+                                         <tr bgcolor="#FFFF00">
+
+                                             <td colspan="2" align="center" class="font1">
+
+                                                 <b>SUPER DESTACADO</b>
+
+                                             </td>
+
+                                         </tr>
+
+                                         
+
+                                         <tr bgcolor="#EFEFEF">
+
+                                          <td width="95" height="40">
+
+                                                <div align="left">
+
+                                                <a href="/autosusados/cardetail.cfm?c=85079714&Ssang Yong.KORANDO.2016" class="font1">
+
+                                                
+
+                                                  <img src="/clasificados/usados/85079714-t.jpg" width="90" border="0"></a>
+
+                                                
+
+                                                </a>
+
+                                                </div>
+
+                                          </td>
+
+                                          <td valign="top">
+
+                                            <a href="/autosusados/cardetail.cfm?c=85079714&Ssang Yong.KORANDO.2016" class="font1">
+
+                                            &nbsp;<b>Ssang Yong KORANDO&nbsp;&nbsp;
+
+                                            &nbsp;2016 
+
+                                           <br></b>
+
+                                            <div class="font1b"><span class="price-xs">
+
+                                                
+
+                                                    <b>&cent;  6,000,000</b></span>&nbsp;&nbsp;&nbsp;<span class="pricedollars-xs">($ 11,385)*</span>
+
+                                                
+
+                                            </div>
+
+
+
+                                            
+
+
+
+                                            <div class="font1c">
+
+                                            &nbsp;   2,000cc | 
+
+                                            
+
+                                              Manual
+
+                                              
+
+                                             | 
+
+                                            
+
+                                              Gasolina
+
+                                            
+
+                                            </div>
+
+                                            </a>
+
+                                          </td>
+
+                                          </tr>
+
+                                        </table>
+
+
+
+
+
+                                
+
+                                    
+
+                                     <table width="100%" border="3" cellpadding="0" cellspacing="0" class="table-bordered carbox" bgcolor="#EFEFEF">
+
+                                         <tr bgcolor="#FFFF00">
+
+                                             <td colspan="2" align="center" class="font1">
+
+                                                 <b>SUPER DESTACADO</b>
+
+                                             </td>
+
+                                         </tr>
+
+                                         
+
+                                         <tr bgcolor="#EFEFEF">
+
+                                          <td width="95" height="40">
+
+                                                <div align="left">
+
+                                                <a href="/autosusados/cardetail.cfm?c=85235312&Porsche.MACAN.2019" class="font1">
+
+                                                
+
+                                                  <img src="/clasificados/usados/85235312-t.jpg" width="90" border="0"></a>
+
+                                                
+
+                                                </a>
+
+                                                </div>
+
+                                          </td>
+
+                                          <td valign="top">
+
+                                            <a href="/autosusados/cardetail.cfm?c=85235312&Porsche.MACAN.2019" class="font1">
+
+                                            &nbsp;<b>Porsche MACAN&nbsp;&nbsp;
+
+                                            &nbsp;2019 
+
+                                           <br></b>
+
+                                            <div class="font1b"><span class="price-xs">
+
+                                                
+
+                                                    <b>&cent; 33,201,000</b></span>&nbsp;&nbsp;&nbsp;<span class="pricedollars-xs">($ 63,000)*</span>
+
+                                                
+
+                                            </div>
+
+
+
+                                            
+
+                                                <span class="pull-right"><img src="https://crautos.com/rimages/financeicon.png" width="25" hspace="5"></span>
+
+                                            
+
+
+
+                                            <div class="font1c">
+
+                                            &nbsp;   2,000cc | 
+
+                                            
+
+                                              Autom&aacute;tico
+
+                                            
+
+                                             | 
+
+                                            
+
+                                              Gasolina
+
+                                            
+
+                                            </div>
+
+                                            </a>
+
+                                          </td>
+
+                                          </tr>
+
+                                        </table>
+
+
+
+
+
+                                
+
+                    </div>
+
+                
+
+                       
+
+                    </div>
+
+                    <div class="inventory-sidebar col-md-3">
+
+                    
+
+                    <div class="col-xs-12">
+
+                      <br><br>
+
+                      <div align="center">
+
+                        
+
+                            <div align="center">
+
+                                <form name="form" method="post" action="https://crautos.com/autosusados/index.cfm/#sf">
+
+                                	<input type="hidden" name="brand" id="brand" value="0">
+
+                                    <input type="hidden" name="modelstr" id="modelstr" value="">
+
+                                    <input type="hidden" name="style" id="style" value="00">
+
+                                    <input type="hidden" name="fuel" id="fuel" value="0">
+
+                                    <input type="hidden" name="trans" id="trans" value="0">
+
+                                    <input type="hidden" name="province" id="province" value="0">
+
+                                    <input type="hidden" name="doors" id="doors" value="0">
+
+                                    <input type="hidden" name="yearfrom" id="yearfrom" value="1960">
+
+                                    <input type="hidden" name="yearto" id="yearto" value="2023">
+
+                                    <input type="hidden" name="financed" id="financed" value="00">
+
+                                    <input type="hidden" name="recibe" id="recibe" value="0">
+
+                                    <input type="hidden" name="orderby" id="orderby" value="0">
+
+                                    <input type="hidden" name="newused" id="newused" value="1">
+
+                                    <input type="image" name="submit" border="0" src="/rimages/newsearch2.png" width="160" height="80">
+
+                                </form>
+
+                            </div>
+
+                        <br><br>
+
+                        
+
+                      </div>
+
+                    </div>
+
+
+
+					
+
+                        <div class="row col-xs-12 hidden-xs hidden-sm" align="center">
+
+                        	
+
+                            <div class="banner180x150title">PUBLICIDAD</div>
+
+                            <div class="banner180x150" id='div180x150'>
+
+                                  <script>
+
+                                        googletag.cmd.push(function() {googletag.pubads().display('/21819284543/crusados', [180, 150], 'div180x150');});
+
+                                  </script>
+
+                            </div>
+
+                            <br><br>
+
+                            
+
+                        	<br>
+
+                            <div class="banner160x600title">PUBLICIDAD</div>
+
+                            <div class="banner160x600" id='div160x600-1'>
+
+                                  <script>
+
+                                        googletag.cmd.push(function() {googletag.pubads().display('/21819284543/crusados', [160, 600], 'div160x600-1');});
+
+                                  </script>
+
+                            </div>
+
+                            <br><br>
+
+                            
+
+                        	<br>
+
+                            <div class="banner160x600title">PUBLICIDAD</div>
+
+                            <div class="banner160x600" id='div160x600-2'>
+
+                                  <script>
+
+                                        googletag.cmd.push(function() {googletag.pubads().display('/21819284543/crusados', [160, 600], 'div160x600-2');});
+
+                                  </script>
+
+                            </div>
+
+                            <br><br>
+
+                            
+
+                        	<br>
+
+                            <div class="banner160x600title">PUBLICIDAD</div>
+
+
+
+
+
+
+
+ <style type="text/css">
+
+.infotext {
+
+	font-family: "Segoe UI", Segoe, "Trebuchet MS", "DejaVu Sans", Verdana, sans-serif;
+
+	font-size: 14px;
+
+	font-weight: 500;
+
+	color: #FFF;
+
+	line-height: 16px;
+
+}
+
+</style>
+
+
+
+
+
+    <a href="https://brenlinea.com/propinfo.cfm?c=96202795" target="_blank" style="text-decoration: none;">
+
+        <table width="160" height="600" border="0" bgcolor="#089C08">
+
+        <tbody>
+
+            <tr bgcolor="#EFEFEF">
+
+                <td align="center" valign="top">
+
+                    <img src="https://brenlinea.com/pictures/96202795-t1.jpg" width="154" height="103" style="margin-bottom:5px">
+
+                    <img src="https://brenlinea.com/pictures/96202795-t2.jpg" width="154" height="103" style="margin-bottom:5px">
+
+                    <img src="https://brenlinea.com/pictures/96202795-t3.jpg" width="154" height="103" style="margin-bottom:3px">
+
+                    <img src="https://brenlinea.com/pictures/96202795-4.jpg" width="154" height="103" style="margin-bottom:3px">
+
+                </td>
+
+            </tr>
+
+
+
+            <tr bgcolor="#089C08">
+
+                <td align="center" valign="top" class="infotext" height="90"  >
+
+                    <div style="font-size:18px;margin-top:10px;margin-bottom:10px;">Casa</div>
+
+                    
+
+                        SE VENDE
+
+                    
+
+                    <br><br>120m2<br>Santa Maria de Dota
+
+                </td>
+
+            </tr>
+
+            
+
+            <tr height="95" bgcolor="#089C08">
+
+            <td align="center"><img src="/dbanners/brenlinea/160x600/brlogo.png" width="151" height="49"  style="margin-top:10px" alt=""/><br><img src="/dbanners/brenlinea/160x600/arrow.png" width="39" height="39"/></td>
+
+            </tr>
+
+        </tbody>
+
+        </table>
+
+    </a>
+
+
+
+
+
+
+
+                            
+
+                            <br><br>
+
+                             
+
+                        	<br>
+
+                            <div class="banner160x600title">PUBLICIDAD</div>
+
+                            <div class="banner160x600" id='div160x600-4'>
+
+                                  <script>
+
+                                        googletag.cmd.push(function() {googletag.pubads().display('/21819284543/crusados', [160, 600], 'div160x600-4');});
+
+                                  </script>
+
+                            </div>
+
+                            <br><br>
+
+                       </div>
+
+					
+
+
+
+                    <br><br><br>        
+
+                  
+
+                  
+
+                    </div>
+
+                </div>
+
+            
+
+            
+
+<!--Footer Banner Start-->
+
+<div class="container">
+
+    <div class="row">
+
+        <div class="col-md-12 hidden-xs hidden-sm" align="center">
+
+        	<br>
+
+        	<div class="banner970x90title">PUBLICIDAD</div>
+
+            <div class="banner970x90" id='div970x90'>
+
+                  <script>
+
+                        googletag.cmd.push(function() {googletag.pubads().display('/21819284543/crusados', [970, 90], 'div970x90');});
+
+                  </script>
+
+            </div>
+
+        </div>
+
+        <div class="col-xs-12 visible-xs visible-sm" align="center">
+
+        	<br>
+
+        	<div class="banner300x250title">PUBLICIDAD</div>
+
+            <div class="banner300x250" id='div300x250'>
+
+                  <script>
+
+                        googletag.cmd.push(function() {googletag.pubads().display('/21819284543/crusados', [300, 250], 'div300x250');});
+
+                  </script>
+
+            </div>
+
+            <br>
+
+        </div>
+
+    </div>
+
+</div>
+
+<br>
+
+<!--Footer Banner End-->
+
+
+
+
+
+            <div class="clearfix"></div>
+
+            
+
+                <br>
+
+                <div class="recent-vehicles-wrap othercars hidden-xs">
+
+                    <div class="row">
+
+                        <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 recent-vehicles padding-left-none xs-padding-bottom-20">
+
+                            <h5 class="margin-top-10 margin-left-5">EN OFERTA HOY</h5>
+
+                            <p class=" margin-left-5">Vea tambi&eacute;n estos veh&iacute;culos que est&aacute;n en oferta hoy.</p>
+
+                        </div>
+
+                        <div class="col-xs-10 padding-right-none sm-padding-left-none xs-padding-left-none">
+
+                            
+
+                                <div class="slide col-md-2 col-sm-4 col-xs-12  minblockheight">
+
+                                    <div class="car-block">
+
+                                        <div class="img-flex" align="center"> <a href="ofertasdeldia/cardetail.cfm?c=36284723"><span class="align-center"><i class="fa fa-3x fa-plus-square-o"></i></span></a> <img src="https://crautos.com/clasificados/usados/36284723-t.jpg" alt="" class="img-responsive maxblockheight"> </div>
+
+                                        <div class="car-block-bottom">
+
+                                            <h6><strong>2014 Audi Q3</strong></h6>
+
+                                            <h6>
+
+                                                
+
+                                                  Gasolina - 
+
+                                                
+
+                                                  Autom&aacute;tico
+
+                                                
+
+                                            </h6>
+
+                                            <span class="orprice">&cent; 10,300,000</span><br>
+
+                                            <span class="dealprice">&cent;  9,400,000</span>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                
+
+                                <div class="slide col-md-2 col-sm-4 col-xs-12  minblockheight">
+
+                                    <div class="car-block">
+
+                                        <div class="img-flex" align="center"> <a href="ofertasdeldia/cardetail.cfm?c=38958559"><span class="align-center"><i class="fa fa-3x fa-plus-square-o"></i></span></a> <img src="https://crautos.com/clasificados/usados/38958559-t.jpg" alt="" class="img-responsive maxblockheight"> </div>
+
+                                        <div class="car-block-bottom">
+
+                                            <h6><strong>2015 Isuzu MUX</strong></h6>
+
+                                            <h6>
+
+                                                
+
+                                                  Diesel - 
+
+                                                
+
+                                                  Autom&aacute;tico
+
+                                                
+
+                                            </h6>
+
+                                            <span class="orprice">&cent; 18,500,000</span><br>
+
+                                            <span class="dealprice">&cent; 17,575,000</span>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                
+
+                                <div class="slide col-md-2 col-sm-4 col-xs-12  minblockheight">
+
+                                    <div class="car-block">
+
+                                        <div class="img-flex" align="center"> <a href="ofertasdeldia/cardetail.cfm?c=46369777"><span class="align-center"><i class="fa fa-3x fa-plus-square-o"></i></span></a> <img src="https://crautos.com/clasificados/usados/46369777-t.jpg" alt="" class="img-responsive maxblockheight"> </div>
+
+                                        <div class="car-block-bottom">
+
+                                            <h6><strong>2013 Toyota LAND CRUISER PRADO TXL</strong></h6>
+
+                                            <h6>
+
+                                                
+
+                                                  Diesel - 
+
+                                                
+
+                                                  Autom&aacute;tico
+
+                                                
+
+                                            </h6>
+
+                                            <span class="orprice">&cent; 24,000,000</span><br>
+
+                                            <span class="dealprice">&cent; 20,990,000</span>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                
+
+                                <div class="slide col-md-2 col-sm-4 col-xs-12  minblockheight">
+
+                                    <div class="car-block">
+
+                                        <div class="img-flex" align="center"> <a href="ofertasdeldia/cardetail.cfm?c=55578360"><span class="align-center"><i class="fa fa-3x fa-plus-square-o"></i></span></a> <img src="https://crautos.com/clasificados/usados/55578360-t.jpg" alt="" class="img-responsive maxblockheight"> </div>
+
+                                        <div class="car-block-bottom">
+
+                                            <h6><strong>2016 Toyota RAV4</strong></h6>
+
+                                            <h6>
+
+                                                
+
+                                                  Gasolina - 
+
+                                                
+
+                                                  Autom&aacute;tico
+
+                                                
+
+                                            </h6>
+
+                                            <span class="orprice">&cent; 11,500,000</span><br>
+
+                                            <span class="dealprice">&cent; 10,800,000</span>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                
+
+                                <div class="slide col-md-2 col-sm-4 col-xs-12  minblockheight">
+
+                                    <div class="car-block">
+
+                                        <div class="img-flex" align="center"> <a href="ofertasdeldia/cardetail.cfm?c=56223603"><span class="align-center"><i class="fa fa-3x fa-plus-square-o"></i></span></a> <img src="https://crautos.com/clasificados/usados/56223603-t.jpg" alt="" class="img-responsive maxblockheight"> </div>
+
+                                        <div class="car-block-bottom">
+
+                                            <h6><strong>1975 Jeep CJ5</strong></h6>
+
+                                            <h6>
+
+                                                
+
+                                                  Gasolina - 
+
+                                                
+
+                                                  Manual
+
+                                                
+
+                                            </h6>
+
+                                            <span class="orprice">&cent;  5,400,000</span><br>
+
+                                            <span class="dealprice">&cent;  5,000,000</span>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                
+
+                                <div class="slide col-md-2 col-sm-4 col-xs-12  minblockheight">
+
+                                    <div class="car-block">
+
+                                        <div class="img-flex" align="center"> <a href="ofertasdeldia/cardetail.cfm?c=6229673"><span class="align-center"><i class="fa fa-3x fa-plus-square-o"></i></span></a> <img src="https://crautos.com/clasificados/usados/6229673-t.jpg" alt="" class="img-responsive maxblockheight"> </div>
+
+                                        <div class="car-block-bottom">
+
+                                            <h6><strong>2019 Renault DUSTER</strong></h6>
+
+                                            <h6>
+
+                                                
+
+                                                  Gasolina - 
+
+                                                
+
+                                                  Manual
+
+                                                
+
+                                            </h6>
+
+                                            <span class="orprice">&cent;  8,950,000</span><br>
+
+                                            <span class="dealprice">&cent;  7,950,000</span>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                
+
+                        </div>
+
+                    </div>
+
+                </div> 
+
+                
+
+                <div class="row visible-xs">
+
+                    <div class="col-xs-12 btn lg-button btn-danger margin-bottom-10"><b>EN OFERTA HOY</b></div>
+
+                    <div class="col-xs-12">
+
+                            
+
+							 <table width="100%" border="0" cellpadding="0" cellspacing="0" class="table-bordered carbox" bgcolor="#EFEFEF">
+
+                             <tr bgcolor="#EFEFEF">
+
+                              <td width="95" height="40">
+
+                                    <div align="left">
+
+                                    <a href="./ofertasdeldia/cardetail.cfm?c=76101187&Mitsubishi.MONTERO SPORT.2016" class="font1">
+
+                                    
+
+                                      <img src="/clasificados/usados/76101187-t.jpg" width="90" border="0"></a>
+
+                                    
+
+                                    </a>
+
+                                    </div>
+
+                              </td>
+
+                              <td valign="top">
+
+                                <a href="./ofertasdeldia/cardetail.cfm?c=76101187&Mitsubishi.MONTERO SPORT.2016" class="font1">
+
+                                &nbsp;<b>Mitsubishi MONTERO SPORT&nbsp;&nbsp;
+
+                                &nbsp;2016 
+
+                               <br></b>
+
+                                <div class="font1b">&nbsp;<b>Precio: <span class="orprice">&cent; 13,950,000</span></b>&nbsp;<span class="dealprice">&cent; 13,000,000</span></div>
+
+                                
+
+  								
+
+                                    <span class="pull-right"><img src="https://crautos.com/rimages/financeicon.png" width="25" hspace="5"></span>
+
+                                
+
+                                
+
+                                <div class="font1c">
+
+                                &nbsp;   2,500cc | 
+
+                                
+
+                                  Autom&aacute;tico
+
+                                
+
+                                 | 
+
+                                
+
+                                  Diesel
+
+                                
+
+                                </div>
+
+                                </a>
+
+                              </td>
+
+                              </tr>
+
+              				</table>
+
+                            
+
+							 <table width="100%" border="0" cellpadding="0" cellspacing="0" class="table-bordered carbox" bgcolor="#EFEFEF">
+
+                             <tr bgcolor="#EFEFEF">
+
+                              <td width="95" height="40">
+
+                                    <div align="left">
+
+                                    <a href="./ofertasdeldia/cardetail.cfm?c=76328567&Alfa Romeo.MITO QUADRIFOGLIO.2015" class="font1">
+
+                                    
+
+                                      <img src="/clasificados/usados/76328567-t.jpg" width="90" border="0"></a>
+
+                                    
+
+                                    </a>
+
+                                    </div>
+
+                              </td>
+
+                              <td valign="top">
+
+                                <a href="./ofertasdeldia/cardetail.cfm?c=76328567&Alfa Romeo.MITO QUADRIFOGLIO.2015" class="font1">
+
+                                &nbsp;<b>Alfa Romeo MITO QUADRIFOGLIO&nbsp;&nbsp;
+
+                                &nbsp;2015 
+
+                               <br></b>
+
+                                <div class="font1b">&nbsp;<b>Precio: <span class="orprice">&cent;  9,000,000</span></b>&nbsp;<span class="dealprice">&cent;  8,500,000</span></div>
+
+                                
+
+  								
+
+                                
+
+                                <div class="font1c">
+
+                                &nbsp;   1,400cc | 
+
+                                
+
+                                  Manual
+
+                                  
+
+                                 | 
+
+                                
+
+                                  Gasolina
+
+                                
+
+                                </div>
+
+                                </a>
+
+                              </td>
+
+                              </tr>
+
+              				</table>
+
+                            
+
+							 <table width="100%" border="0" cellpadding="0" cellspacing="0" class="table-bordered carbox" bgcolor="#EFEFEF">
+
+                             <tr bgcolor="#EFEFEF">
+
+                              <td width="95" height="40">
+
+                                    <div align="left">
+
+                                    <a href="./ofertasdeldia/cardetail.cfm?c=7674444&Renault.DUSTER.2017" class="font1">
+
+                                    
+
+                                      <img src="/clasificados/usados/7674444-t.jpg" width="90" border="0"></a>
+
+                                    
+
+                                    </a>
+
+                                    </div>
+
+                              </td>
+
+                              <td valign="top">
+
+                                <a href="./ofertasdeldia/cardetail.cfm?c=7674444&Renault.DUSTER.2017" class="font1">
+
+                                &nbsp;<b>Renault DUSTER&nbsp;&nbsp;
+
+                                &nbsp;2017 
+
+                                  &nbsp;&nbsp;&nbsp;<img src="./images/option3-10.gif" width="140" hspace="0" vspace="0" align="absmiddle">
+
+                                
+
+                               <br></b>
+
+                                <div class="font1b">&nbsp;<b>Precio: <span class="orprice">&cent;  8,950,000</span></b>&nbsp;<span class="dealprice">&cent;  7,950,000</span></div>
+
+                                
+
+  								
+
+                                    <span class="pull-right"><img src="https://crautos.com/rimages/financeicon.png" width="25" hspace="5"></span>
+
+                                
+
+                                
+
+                                <div class="font1c">
+
+                                &nbsp;   2,000cc | 
+
+                                
+
+                                  Autom&aacute;tico
+
+                                
+
+                                 | 
+
+                                
+
+                                  Gasolina
+
+                                
+
+                                </div>
+
+                                </a>
+
+                              </td>
+
+                              </tr>
+
+              				</table>
+
+                            
+
+							 <table width="100%" border="0" cellpadding="0" cellspacing="0" class="table-bordered carbox" bgcolor="#EFEFEF">
+
+                             <tr bgcolor="#EFEFEF">
+
+                              <td width="95" height="40">
+
+                                    <div align="left">
+
+                                    <a href="./ofertasdeldia/cardetail.cfm?c=78394399&Kia.SPORTAGE.2015" class="font1">
+
+                                    
+
+                                      <img src="/clasificados/usados/78394399-t.jpg" width="90" border="0"></a>
+
+                                    
+
+                                    </a>
+
+                                    </div>
+
+                              </td>
+
+                              <td valign="top">
+
+                                <a href="./ofertasdeldia/cardetail.cfm?c=78394399&Kia.SPORTAGE.2015" class="font1">
+
+                                &nbsp;<b>Kia SPORTAGE&nbsp;&nbsp;
+
+                                &nbsp;2015 
+
+                               <br></b>
+
+                                <div class="font1b">&nbsp;<b>Precio: <span class="orprice">&cent;  9,500,000</span></b>&nbsp;<span class="dealprice">&cent;  8,750,000</span></div>
+
+                                
+
+  								
+
+                                    <span class="pull-right"><img src="https://crautos.com/rimages/financeicon.png" width="25" hspace="5"></span>
+
+                                
+
+                                
+
+                                <div class="font1c">
+
+                                &nbsp;   2,000cc | 
+
+                                
+
+                                  Autom&aacute;tico
+
+                                
+
+                                 | 
+
+                                
+
+                                  Gasolina
+
+                                
+
+                                </div>
+
+                                </a>
+
+                              </td>
+
+                              </tr>
+
+              				</table>
+
+                            
+
+							 <table width="100%" border="0" cellpadding="0" cellspacing="0" class="table-bordered carbox" bgcolor="#EFEFEF">
+
+                             <tr bgcolor="#EFEFEF">
+
+                              <td width="95" height="40">
+
+                                    <div align="left">
+
+                                    <a href="./ofertasdeldia/cardetail.cfm?c=8293292&Audi.A4.2014" class="font1">
+
+                                    
+
+                                      <img src="/clasificados/usados/8293292-t.jpg" width="90" border="0"></a>
+
+                                    
+
+                                    </a>
+
+                                    </div>
+
+                              </td>
+
+                              <td valign="top">
+
+                                <a href="./ofertasdeldia/cardetail.cfm?c=8293292&Audi.A4.2014" class="font1">
+
+                                &nbsp;<b>Audi A4&nbsp;&nbsp;
+
+                                &nbsp;2014 
+
+                                  &nbsp;&nbsp;&nbsp;<img src="./images/option3-10.gif" width="140" hspace="0" vspace="0" align="absmiddle">
+
+                                
+
+                               <br></b>
+
+                                <div class="font1b">&nbsp;<b>Precio: <span class="orprice">&cent;  9,950,000</span></b>&nbsp;<span class="dealprice">&cent;  8,750,000</span></div>
+
+                                
+
+  								
+
+                                
+
+                                <div class="font1c">
+
+                                &nbsp;   1,800cc | 
+
+                                
+
+                                  Autom&aacute;tico
+
+                                
+
+                                 | 
+
+                                
+
+                                  Gasolina
+
+                                
+
+                                </div>
+
+                                </a>
+
+                              </td>
+
+                              </tr>
+
+              				</table>
+
+                            
+
+							 <table width="100%" border="0" cellpadding="0" cellspacing="0" class="table-bordered carbox" bgcolor="#EFEFEF">
+
+                             <tr bgcolor="#EFEFEF">
+
+                              <td width="95" height="40">
+
+                                    <div align="left">
+
+                                    <a href="./ofertasdeldia/cardetail.cfm?c=86309786&Hyundai.ACCENT.2014" class="font1">
+
+                                    
+
+                                      <img src="/clasificados/usados/86309786-t.jpg" width="90" border="0"></a>
+
+                                    
+
+                                    </a>
+
+                                    </div>
+
+                              </td>
+
+                              <td valign="top">
+
+                                <a href="./ofertasdeldia/cardetail.cfm?c=86309786&Hyundai.ACCENT.2014" class="font1">
+
+                                &nbsp;<b>Hyundai ACCENT&nbsp;&nbsp;
+
+                                &nbsp;2014 
+
+                               <br></b>
+
+                                <div class="font1b">&nbsp;<b>Precio: <span class="orprice">&cent;  6,320,000</span></b>&nbsp;<span class="dealprice">&cent;  6,000,000</span></div>
+
+                                
+
+  								
+
+                                    <span class="pull-right"><img src="https://crautos.com/rimages/financeicon.png" width="25" hspace="5"></span>
+
+                                
+
+                                
+
+                                <div class="font1c">
+
+                                &nbsp;   1,600cc | 
+
+                                
+
+                                  Autom&aacute;tico
+
+                                
+
+                                 | 
+
+                                
+
+                                  Gasolina
+
+                                
+
+                                </div>
+
+                                </a>
+
+                              </td>
+
+                              </tr>
+
+              				</table>
+
+                            
+
+                    </div>
+
+                </div>
+
+                
+
+                <br>
+
+            
+
+
+
+        </div>
+
+    </div>
+
+    <!--container ends--> 
+
+</section>
+
+
+
+<!--content ends-->
+
+<div class="clearfix"></div>
+
+
+
+
+
+<!--Footer Start-->
+
+<div class="clearfix"></div>
+
+<section class="copyright-wrap">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" align="center">
+
+                <div class="logo-footer"><a href="https://crautos.com">
+
+                    <img class="img-responsive" src="/rimages/crautoslogob.png" hspace="10">
+
+                    <span>La P&aacute;gina de Autos de Costa Rica</span>
+
+                    </a>
+
+                </div>
+
+                <p>Copyright &copy; 1998-2023.  Todos los derechos reservados.</p>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" align="center">
+
+                <h4>Cont&aacute;ctanos</h4>
+
+                <div class="footer-contact">
+
+                    <ul>
+
+                        <li><b><i class="fa fa-phone"></i>Tel&eacute;fono:</b><span> (506) 2291-4141</span></li>
+
+                        <li><b><i class="fa fa-envelope-o"></i>Email:</b><span><a href="mailto:soporte@crautos.com">soporte@crautos.com</a></span></li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" align="center">
+
+                <ul class="social">
+
+                    <li><a href="https://facebook.com/crautos" target="_blank" class="sc-1"></a></li>
+
+                    <a href="https://facebook.com/crautos" target="_blank" class="h3">S&iacute;guenos&nbsp;en&nbsp;Facebook</a>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<div class="back_to_top"> <img src="/rimages/arrow-up.png" alt="scroll up" /> </div>
+
+
+
+<!--Footer End-->
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2824303-1"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+
+
+  gtag('config', 'UA-2824303-1');
+
+</script>
+
+<script type="text/javascript">
+
+_atrk_opts = { atrk_acct:"KE0bl1ao9rD070", domain:"crautos.com",dynamic: true};
+
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+
+</script>
+
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=KE0bl1ao9rD070" style="display:none" height="1" width="1" alt="" /></noscript>
+
+
+
+
+
+ <form name="Form1" action="searchresults.cfm?c=10221" method="post" target="_self">
+
+            <input name="brand" type="hidden" value="0">
+
+            <input name="financed" type="hidden" value="00">
+
+            <input name="yearfrom" type="hidden" value="1960">
+
+            <input name="yearto" type="hidden" value="2023">
+
+            <input name="pricefrom" type="hidden" value="100000">
+
+            <input name="priceto" type="hidden" value="200000000">
+
+            <input name="style" type="hidden" value="00">
+
+            <input name="province" type="hidden" value="0">
+
+            <input name="doors" type="hidden" value="0">
+
+            <input name="orderby" type="hidden" value="0">
+
+            <input name="newused" type="hidden" value="1">
+
+            <input name="fuel" type="hidden" value="0">
+
+            <input name="trans" type="hidden" value="0">
+
+            <input name="recibe" type="hidden" value="0">
+
+            <input name="modelstr" type="hidden" value="">
+
+            <input name="totalads" type="hidden" value="10341">
+
+            <input name="p" type="hidden" value="">
+
+ </form>
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://crautos.com/bt/css/googlefonts.css" media="screen" />
+
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Yellowtail%7COpen%20Sans%3A400%2C300%2C600%2C700%2C800" media="screen" />
+
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oxygen" media="screen" />
+
+<!-- Custom styles for this template -->
+
+<link href="https://crautos.com/bt/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
+
+<link href="https://crautos.com/bt/css/mobile.css" rel="stylesheet">
+
+<link href="https://crautos.com/bt/css/settings.css" media="screen" rel="stylesheet" type="text/css"  />
+
+<link href="https://crautos.com/bt/css/animate.min.css" rel="stylesheet">
+
+<link href="https://crautos.com/bt/css/ts.css" type="text/css" rel="stylesheet">
+
+<script src="https://crautos.com/bt/js/jquery.min.js" type="text/javascript"></script>
+
+<script src="https://crautos.com/bt/js/bootstrap.min.js" type="text/javascript"></script>
+
+
+
+<!-- Bootstrap core JavaScript --> 
+
+<script src="https://crautos.com/bt/js/main.js"></script> 
+
+</body>
+
+</html>
