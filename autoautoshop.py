@@ -43,6 +43,8 @@ def main():
                     car_garage_data.add_car(car_id)
                     time.sleep(1)
     #Filter the results
-    car_garage_data.save_csv()
+    print_str = car_garage_data.return_csv_str()
+    with open("test.csv","w") as f:
+        print( print_str,file=f)
     #Save the results
 main()

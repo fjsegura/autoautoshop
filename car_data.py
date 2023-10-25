@@ -20,13 +20,13 @@ class car():
                 case "Modelo:":
                     self.model = row[1]
                 case "Cilindrada:":
-                    self.engine = row[1]
+                    self.engine = row[1].replace(",","")
                 case "Estilo:":
                     self.style = row[1]
                 case "Año:":
                     self.year = row[1]
                 case "Precio:":
-                    self.price = row[1]
+                    self.price = row[1].replace(",","")
                 case "Estado:":
                     self.status = row[1]
                 case "Color  Exterior:":
@@ -65,7 +65,7 @@ class car():
                     continue
                 self.equipment.add(str(row[1]).replace(".",""))
             if last_line:
-                self.vendor_comment = row[1]
+                self.vendor_comment = row[1].replace(",","")
                 break
     
     def return_equipment(self):
@@ -89,7 +89,6 @@ class car():
         for key_name in variables_keys_list:
             if type(variables[key_name]) == str:
                 data = re.sub(";","",variables[key_name])
-                return_str += "{},".format(data)
             else:
                 sort_list = list(variables[key_name])
                 sort_list.sort()

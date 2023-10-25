@@ -1,5 +1,13 @@
 import unittest
 import car_data
+import car_garage
+
+class TestCarGarage(unittest.TestCase):
+      car_storage = car_garage.car_garage_class("test")
+      car_id = "41884859"
+      def test_car_garage_data(self):
+            self.car_storage.add_car(self.car_id)
+            print(self.car_storage.return_csv_str())
 class TestCarDataExtract(unittest.TestCase):
     car_id = "41884859"
     equipment_list = ['Aire acondicionado', 'Aire acondicionado climatizado', 'Alarma', 'Aros de lujo', 'Bluetooth', 'Bolsa de aire', 'Caja de cambios dual', 'Cierre central', 'Computadora de viaje', 'Control de radio en el volante', 'Control electrónico de estabilidad', 'Cámara de retroceso', 'Desempañador trasero', 'Dirección hidráulica', 'Disco compacto', 'Espejos Eléctricos', 'Frenos ABS', 'Halógenos', 'Llave inteligente/botón de arranque', 'Luces de Xenón/Bixenón', 'Monitor de presión de llantas', 'RTV al día', 'Radio con USB/AUX', 'Sensores de retroceso', 'Tapicería de cuero', 'Turbo', 'Vidrios Eléctricos', 'Vidrios tintados', 'Volante ajustable', 'Volante multifuncional']
